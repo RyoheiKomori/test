@@ -1,0 +1,19 @@
+.menu {
+  background-color: #333;
+  height: 100%;
+  width: 20%;
+}
+.navbar {
+  text-align: right;
+}
+.menu-icon {
+  width: 50px;
+  font-size: 40px;
+}
+.bar {
+  color: white;
+}
+.side-menu {
+  color: white;
+  font-size: 18px;
+}
